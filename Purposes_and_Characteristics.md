@@ -66,7 +66,7 @@
 
 ### Object-to-Store Mapping
 
-- Uses a data mapping model similar to ORM (Object-Relational Mapping) for NoSQL.
+- Uses data mapping model similar to ORM (Object-Relational Mapping) for NoSQL.
 
 - Handles schema definition and data persistence with minimal boilerplate.
 
