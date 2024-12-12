@@ -4,11 +4,11 @@
 
 - [Steps](#steps)
 
-    - [Step 1](#step-1---install-required-libraries)
+    - [Step 1](#step-1---install-required-libraries-in-bashs)
 
-    - [Step 2](#step-2---define-your-data-model)
+    - [Step 2](#step-2---define-your-data-model-in-json)
 
-    - [Step 3](#step-3---configure-gora-properties)
+    - [Step 3](#step-3---configure-gora-properties-in-properties)
 
     - [step 4](#step-4---write-the-code-in-python)
 
