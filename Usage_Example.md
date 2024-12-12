@@ -16,7 +16,7 @@
 
 ## Steps
 
-### Step 1 - Install Required Libraries
+### Step 1 - Install Required Libraries in .bash
 
 - First, ensure you have Apache Gora and its dependencies installed.
 
@@ -26,7 +26,7 @@
 }
 ```
 
-### Step 2 - Define Your Data Model
+### Step 2 - Define Your Data Model in .json
 
 - Secondly, create an Avro schema for your data. The example here is for a webpage
 
@@ -46,7 +46,7 @@
 }
 ```
 
-### Step 3 - Configure Gora Properties
+### Step 3 - Configure Gora Properties in .properties
 
 - Update your gora.properties to specify your datastore.
 
@@ -57,7 +57,7 @@
 }
 ```
 
-### Step 4 - Write the Code in Python
+### Step 4 - Write the Code in .Python
 
 - Here’s a simple Python script to interact with the Gora data model.
 
