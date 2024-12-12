@@ -4,7 +4,7 @@
 
 - [Steps](#steps)
 
-    - [Step 1](#step-1---install-required-libraries-in-bashs)
+    - [Step 1](#step-1---install-required-libraries-in-bash)
 
     - [Step 2](#step-2---define-your-data-model-in-json)
 
